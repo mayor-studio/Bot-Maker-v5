@@ -1,0 +1,19 @@
+{
+    "prefix":"$",
+    "owner":[""],
+    "token":"",
+    "voiceRoomID" : "",
+    "mainguild":"",
+    "commandsRoom" : "",
+    "updatesRoom" : "",
+    "updatesRoomWebhookUrl" : "",
+    "database":"",
+    "purchaseWebhookUrl" : "",
+    "joinLeaveWebhookUrl" : "",
+    "buyTokenLogsWebhookUrl" : "",
+    "reportLogsWebhookUrl" : "",
+    "suggestionsLogsWebhookUrl" : "",
+    "subsLogsWebhookUrl" : "",
+    "makerSubsLogsWebhookUrl" : "",
+    "WEBHOOK_URL" : ""
+    }
